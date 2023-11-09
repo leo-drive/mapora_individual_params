@@ -1,0 +1,29 @@
+sensor_kit_base_link: #  x y z y p r and x y z qx qy qz qw for ros static transform publisher
+  pylon_camera_link:
+    x: 0.015976527214191717
+    y: -0.14058677051467006
+    z: -0.08027769563042886
+    roll: -1.613769866234427
+    pitch: -0.011186821744700943
+    yaw: 3.1055002572281754
+  innovusion_base_link:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    roll: 3.14
+    pitch: -1.57
+    yaw: 0.0
+  hesai_base_link:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    roll: 0.0
+    pitch: 0.0
+    yaw: 3.14159265
+  GNSS_INS:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    roll: 0.0
+    pitch: 0.0
+    yaw: 0.0
